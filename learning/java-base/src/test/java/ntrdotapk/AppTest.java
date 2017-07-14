@@ -6,6 +6,8 @@ import junit.framework.TestSuite;
 
 /**
  * Unit test for simple App.
+ * junit3继承testcase
+ * junit4有改动
  */
 public class AppTest 
     extends TestCase
